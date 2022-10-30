@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UF Software</title>
+    <link>https://www.ufsoft.me/</link>
+    <description>Recent content on UF Software</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.ufsoft.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Categories Post</title>
+      <link>https://www.ufsoft.me/blog/2021/08/01/categories-post/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://www.ufsoft.me/blog/2021/08/01/categories-post/</guid>
+      <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:
+categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;]  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://www.ufsoft.me/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ufsoft.me/contact/</guid>
+      <description>We are here to help you Are you curious about something? Do you have some kind of problem with our products?
+Let us know and we&amp;rsquo;ll help you! But please, don&amp;rsquo;t send us paper mail. Let&amp;rsquo;s save forests together.
+Please feel free to contact us 24&amp;frasl;7, but our business hours are: Mo-Fr, 10.00-18.00.</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://www.ufsoft.me/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ufsoft.me/faq/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+    </item>
+    
+  </channel>
+</rss>
